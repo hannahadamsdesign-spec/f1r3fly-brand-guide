@@ -60,21 +60,21 @@ You are about to make something for F1R3FLY. Before you produce anything, confir
 Everything an AI or a teammate needs to pull real assets and check their work.
 
 **Brand portal (browse all assets)**
-- Portal repo: https://github.com/hannahadamsdesign-spec/f1r3fly-brand-portal
-- Portal site: https://hannahadamsdesign-spec.github.io/f1r3fly-brand-portal/
+- Portal repo: https://github.com/F1R3FLY-io/f1r3fly-brand-portal
+- Portal site: https://f1r3fly-io.github.io/f1r3fly-brand-portal/
 
 **Logos**
-- F1R3FLY Industries logos (knot): https://github.com/hannahadamsdesign-spec/f1r3fly-brand-portal/tree/main/F1R3FLY-Industries-Brand-Assets
-- F1R3FLY.IO logos (bug): https://github.com/hannahadamsdesign-spec/f1r3fly-brand-portal/tree/main/F1R3FLY-IO-Brand-Assets
-- Raw fetch base (for AI / programmatic download): `https://raw.githubusercontent.com/hannahadamsdesign-spec/f1r3fly-brand-portal/main/`
+- F1R3FLY Industries logos (knot): https://github.com/F1R3FLY-io/f1r3fly-brand-portal/tree/main/F1R3FLY-Industries-Brand-Assets
+- F1R3FLY.IO logos (bug): https://github.com/F1R3FLY-io/f1r3fly-brand-portal/tree/main/F1R3FLY-IO-Brand-Assets
+- Raw fetch base (for AI / programmatic download): `https://raw.githubusercontent.com/F1R3FLY-io/f1r3fly-brand-portal/main/`
 
 **Layout grid** (kept at a stable path — updated by saving over the same file)
-- Browse: https://github.com/hannahadamsdesign-spec/f1r3fly-brand-portal/tree/main/templates
-- Direct: `https://raw.githubusercontent.com/hannahadamsdesign-spec/f1r3fly-brand-portal/main/templates/brand-layout-grid.svg`
+- Browse: https://github.com/F1R3FLY-io/f1r3fly-brand-portal/tree/main/templates
+- Direct: `https://raw.githubusercontent.com/F1R3FLY-io/f1r3fly-brand-portal/main/templates/brand-layout-grid.svg`
 
 **Brand books** (deeper reference — see the caveat in Section 9; both are being revised next)
-- F1R3FLY Industries — Brand Style Guide (PDF): https://github.com/hannahadamsdesign-spec/f1r3fly-brand-portal/blob/main/F1R3FLY%20INDUSTRIES-Brand%20Style%20Guide.pdf
-- F1R3FLY.IO — Brand Guidebook (PDF): https://github.com/hannahadamsdesign-spec/f1r3fly-brand-portal/blob/main/F1R3FLY.IO-Brand%20Guidebook.pdf
+- F1R3FLY Industries — Brand Style Guide (PDF): https://github.com/F1R3FLY-io/f1r3fly-brand-portal/blob/main/F1R3FLY%20INDUSTRIES-Brand%20Style%20Guide.pdf
+- F1R3FLY.IO — Brand Guidebook (PDF): https://github.com/F1R3FLY-io/f1r3fly-brand-portal/blob/main/F1R3FLY.IO-Brand%20Guidebook.pdf
 
 **Check your work**
 - Contrast checker (WCAG AA/AAA): https://webaim.org/resources/contrastchecker/
@@ -199,7 +199,7 @@ f1r3fly-brand-portal/
 ```
 
 **Example fetch** (Industries vertical logo, for a dark title slide):
-`https://raw.githubusercontent.com/hannahadamsdesign-spec/f1r3fly-brand-portal/main/F1R3FLY-Industries-Brand-Assets/f1r3fly-industries-vertical-logo-color-on-dark.png`
+`https://raw.githubusercontent.com/F1R3FLY-io/f1r3fly-brand-portal/main/F1R3FLY-Industries-Brand-Assets/f1r3fly-industries-vertical-logo-color-on-dark.png`
 
 ### How to access files — formats and variants
 

@@ -4,14 +4,14 @@
 
 *Last update: June 21, 2026*
 
-[**→ Open the visual brand portal**](https://hannahadamsdesign-spec.github.io/f1r3fly-brand-portal/)
+[**→ Open the visual brand portal**](https://f1r3fly-io.github.io/f1r3fly-brand-portal/)
 
 Two brands live here, and they use different logos:
 
 - **F1R3FLY Industries** — the parent brand. Trefoil **knot**.
 - **F1R3FLY.IO** — the developer platform. Firefly **bug**.
 
-If you just want a file fast, use the [visual portal](https://hannahadamsdesign-spec.github.io/f1r3fly-brand-portal/). To browse the folders directly, start below.
+If you just want a file fast, use the [visual portal](https://f1r3fly-io.github.io/f1r3fly-brand-portal/). To browse the folders directly, start below.
 
 ## Brand books
 
