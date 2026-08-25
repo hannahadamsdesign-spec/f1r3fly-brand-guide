@@ -2,14 +2,15 @@
 
 **Every F1R3FLY logo, color, and font — in one place.**
 
-*Last update: June 21, 2026*
+*Last update: August 25, 2026*
 
 [**→ Open the visual brand portal**](https://f1r3fly-io.github.io/f1r3fly-brand-portal/)
 
-Two brands live here, and they use different logos:
+Three brands live here, and they use different logos:
 
 - **F1R3FLY Industries** — the parent brand. Trefoil **knot**.
 - **F1R3FLY.IO** — the developer platform. Firefly **bug**.
+- **Rholang** — the language. **Rholang** wordmark.
 
 If you just want a file fast, use the [visual portal](https://f1r3fly-io.github.io/f1r3fly-brand-portal/). To browse the folders directly, start below.
 
@@ -28,6 +29,7 @@ The deep reference for each brand — logo construction, clearspace, architectur
 | **[F1R3FLY.IO bug icon →](F1R3FLY-IO-Brand-Assets)** | bug, circle icon | for avatars, favicons, app icons |
 | **[F1R3FLY Industries logo →](F1R3FLY-Industries-Brand-Assets)** | horizontal, vertical, circle | `color-on-dark`, `color-on-light`, `bw-on-light`, `white` |
 | **[F1R3FLY Industries knot icon →](F1R3FLY-Industries-Brand-Assets)** | knot, circle icon | for avatars, favicons, app icons |
+| **[Rholang logo →](Rholang-Brand-Assets)** | wordmark | red, blue, white, and black — on black, white, and transparent backgrounds |
 
 Formats: SVG · PNG · PDF. The icon alone is a badge — use the full logo on covers and public pieces.
 
@@ -70,6 +72,7 @@ Find what you're doing on the left. Grab the file on the right.
 f1r3fly-brand-portal/
 ├── F1R3FLY-Industries-Brand-Assets/   knot logos + color system + swatches
 ├── F1R3FLY-IO-Brand-Assets/           bug logos (+ social-media/)
+├── Rholang-Brand-Assets/              Rholang wordmark (red / blue / white / black)
 ├── f1r3fly-brand-fonts/               Josefin Sans + Source Sans 3
 ├── templates/                         layout grid + social templates
 ├── swatches/                          Illustrator / Photoshop / Canva swatch pack
